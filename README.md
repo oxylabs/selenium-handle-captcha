@@ -2,7 +2,7 @@
 
 [![mubeng](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://github.com/oxylabs/web-unblocker)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 - [Bypass CAPTCHA with Selenium and Python](#bypass-captcha-with-selenium-and-python)
   * [**Step 1 - Install dependencies**](#step-1---install-dependencies)

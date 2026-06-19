@@ -148,6 +148,6 @@ The content of the page will be stored in the `content` object, which
 you can process later with HTML Parser libraries such as [<u>Beautiful
 Soup</u>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) or
 parse using the [<u>Custom
-Parser</u>](https://developers.oxylabs.io/scraper-apis/custom-parser).
+Parser</u>](https://developers.oxylabs.io/products/web-scraper-api/features/custom-parser).
 Web Unblocker also renders JavaScript for you, so you can use this
 method for dynamic websites as well.

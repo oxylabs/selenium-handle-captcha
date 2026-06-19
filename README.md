@@ -1,15 +1,15 @@
-# How to Bypass CAPTCHA With Selenium & Python
+# How to Handle CAPTCHA With Selenium & Python
 
 [![mubeng](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://github.com/oxylabs/web-unblocker)
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
-- [Bypass CAPTCHA with Selenium and Python](#bypass-captcha-with-selenium-and-python)
+- [Handle CAPTCHA with Selenium and Python](#bypass-captcha-with-selenium-and-python)
   * [**Step 1 - Install dependencies**](#step-1---install-dependencies)
   * [**Step 2 - Import libraries**](#step-2---import-libraries)
   * [**Step 3 - Navigate to webpage**](#step-3---navigate-to-webpage)
   * [**Step 4 - Take a screenshot**](#step-4---take-a-screenshot)
-- [**Bypass CAPTCHA with Web Unblocker**](#bypass-captcha-with-web-unblocker)
+- [**Handle CAPTCHA with Web Unblocker**](#bypass-captcha-with-web-unblocker)
   * [**Step 1 - Import libraries**](#step-1---import-libraries)
   * [**Step 2 - Get Web Unblocker credentials**](#step-2---get-web-unblocker-credentials)
   * [**Step 3 - Prepare Web Unblocker**](#step-3---prepare-web-unblocker)
@@ -23,7 +23,7 @@ Unblocker</u>](https://oxylabs.io/products/web-unblocker). See the
 [<u>full blog post</u>](https://oxylabs.io/blog/selenium-bypass-captcha)
 for more details and tips.
 
-## Bypass CAPTCHA with Selenium and Python
+## Handle CAPTCHA with Selenium and Python
 
 The first step is to install Python if you haven't installed it already.
 You can download it from the [<u>official
@@ -87,12 +87,12 @@ similar to the one given below:
 The page has loaded properly without showing any CAPTCHA and the
 undetected-chromedriver has rendered the Javascript files.
 
-## Bypass CAPTCHA with Web Unblocker
+## Handle CAPTCHA with Web Unblocker
 
-To perform large-scale web scraping while bypassing CAPTCHA, you’ll need
+To perform large-scale web scraping while handling CAPTCHA, you’ll need
 a strong tool. [<u>Web
 Unblocker</u>](https://oxylabs.io/products/web-unblocker), an AI–powered
-proxy solution for bypassing IP blocks and CAPTCHAs, will automatically
+proxy solution for handling IP blocks and CAPTCHAs, will automatically
 rotate proxies for you, so you don’t have to worry about manually
 managing a list of proxies for your bots.
 

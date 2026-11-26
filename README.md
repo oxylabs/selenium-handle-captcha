@@ -25,8 +25,8 @@ In this tutorial, you’ll learn how to handle CAPTCHA tests in Selenium
 and Python using
 [<u>undetected-chromedriver</u>](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 and [<u>Oxylabs’ Web
-Unblocker</u>](https://oxylabs.io/products/web-unblocker). See the
-[<u>full blog post</u>](https://oxylabs.io/blog/selenium-bypass-captcha)
+Unblocker</u>](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=selenium-handle-captcha&groupid=877). See the
+[<u>full blog post</u>](https://oxylabs.io/blog/selenium-bypass-captcha?utm_source=github&utm_medium=referral&utm_content=selenium-handle-captcha&groupid=877)
 for more details and tips.
 
 ## Handle CAPTCHA with Selenium and Python
@@ -97,7 +97,7 @@ undetected-chromedriver has rendered the Javascript files.
 
 To perform large-scale web scraping while handling CAPTCHA, you’ll need
 a strong tool. [<u>Web
-Unblocker</u>](https://oxylabs.io/products/web-unblocker), an AI–powered
+Unblocker</u>](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=selenium-handle-captcha&groupid=877), an AI–powered
 proxy solution for handling IP blocks and CAPTCHAs, will automatically
 rotate proxies for you, so you don’t have to worry about manually
 managing a list of proxies for your bots.

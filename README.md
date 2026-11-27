@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
-  <a href="https://developers.oxylabs.io/products/web-api"><img src="https://img.shields.io/badge/%F0%9F%93%9A_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
+  <a href="https://developers.oxylabs.io/products/web-api?utm_source=github&utm_medium=referral&utm_content=selenium-handle-captcha&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/%F0%9F%93%9A_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%93%8A_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
   <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/%F0%9F%92%AC_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
@@ -133,7 +133,7 @@ proxies = {
 
 If you get any authentication-related errors in the later steps, don’t
 forget to check the Web Unblocker response codes
-[<u>here</u>](https://developers.oxylabs.io/advanced-proxy-solutions/web-unblocker/response-codes).
+[<u>here</u>](https://developers.oxylabs.io/advanced-proxy-solutions/web-unblocker/response-codes?utm_source=github&utm_medium=referral&utm_content=selenium-handle-captcha&groupid=877).
 
 ### Step 4 - Fetch content
 
@@ -154,6 +154,6 @@ The content of the page will be stored in the `content` object, which
 you can process later with HTML Parser libraries such as [<u>Beautiful
 Soup</u>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) or
 parse using the [<u>Custom
-Parser</u>](https://developers.oxylabs.io/products/web-scraper-api/features/custom-parser).
+Parser</u>](https://developers.oxylabs.io/products/web-scraper-api/features/custom-parser?utm_source=github&utm_medium=referral&utm_content=selenium-handle-captcha&groupid=877).
 Web Unblocker also renders JavaScript for you, so you can use this
 method for dynamic websites as well.
